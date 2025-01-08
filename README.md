@@ -2,7 +2,7 @@
 
 Android Community Group for Kabete Android Dev community.
 
-Learning resources for students learning Jetpack compose for android app development
+Learning resources for students learning Jetpack compose for android app development.
 
 
 
