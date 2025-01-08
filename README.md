@@ -6,6 +6,5 @@ Learning resources for students learning Jetpack compose for android app develop
 
 
 
-
 Usually taking students every day for a sprint marathon learning android. 
 
