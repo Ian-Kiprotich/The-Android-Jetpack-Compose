@@ -1,4 +1,4 @@
-## Android-Jetpack-Compose
+## Android-Jetpack-Compose.
 
 Android Community Group for Kabete Android Dev community.
 
